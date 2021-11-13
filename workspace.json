@@ -1,0 +1,73 @@
+{
+  "id" : 1,
+  "name" : "Name",
+  "description" : "Description",
+  "revision" : 0,
+  "lastModifiedDate" : "2021-11-13T15:16:52Z",
+  "lastModifiedAgent" : "structurizr-web/2544/diagram",
+  "properties" : {
+    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CiAgICAgICAgdXNlciA9IHBlcnNvbiAiVXNlciIKICAgICAgICBzb2Z0d2FyZVN5c3RlbSA9IHNvZnR3YXJlU3lzdGVtICJTb2Z0d2FyZSBTeXN0ZW0iCgogICAgICAgIHVzZXIgLT4gc29mdHdhcmVTeXN0ZW0gIlVzZXMiCiAgICB9CgogICAgdmlld3MgewogICAgICAgIHN5c3RlbUNvbnRleHQgc29mdHdhcmVTeXN0ZW0gIkRpYWdyYW0xIiB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBhdXRvTGF5b3V0CiAgICAgICAgfQoKICAgICAgICB0aGVtZSBkZWZhdWx0CiAgICB9Cgp9Cg=="
+  },
+  "configuration" : { },
+  "model" : {
+    "people" : [ {
+      "id" : "1",
+      "tags" : "Element,Person",
+      "name" : "User",
+      "relationships" : [ {
+        "id" : "3",
+        "tags" : "Relationship",
+        "sourceId" : "1",
+        "destinationId" : "2",
+        "description" : "Uses"
+      } ],
+      "location" : "Unspecified"
+    } ],
+    "softwareSystems" : [ {
+      "id" : "2",
+      "tags" : "Element,Software System",
+      "name" : "Software System",
+      "location" : "Unspecified"
+    } ]
+  },
+  "documentation" : { },
+  "views" : {
+    "systemContextViews" : [ {
+      "softwareSystemId" : "2",
+      "key" : "Diagram1",
+      "paperSize" : "A6_Portrait",
+      "dimensions" : {
+        "width" : 866,
+        "height" : 1416
+      },
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "enterpriseBoundaryVisible" : true,
+      "elements" : [ {
+        "id" : "1",
+        "x" : 232,
+        "y" : 207
+      }, {
+        "id" : "2",
+        "x" : 207,
+        "y" : 907
+      } ],
+      "relationships" : [ {
+        "id" : "3"
+      } ]
+    } ],
+    "configuration" : {
+      "branding" : { },
+      "styles" : { },
+      "themes" : [ "https://static.structurizr.com/themes/default/theme.json" ],
+      "terminology" : { },
+      "lastSavedView" : "Diagram1"
+    }
+  }
+}
