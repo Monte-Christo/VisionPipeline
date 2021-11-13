@@ -3,10 +3,10 @@
   "name" : "Name",
   "description" : "Description",
   "revision" : 0,
-  "lastModifiedDate" : "2021-11-13T15:16:52Z",
+  "lastModifiedDate" : "2021-11-13T15:51:51Z",
   "lastModifiedAgent" : "structurizr-web/2544/diagram",
   "properties" : {
-    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CiAgICAgICAgdXNlciA9IHBlcnNvbiAiVXNlciIKICAgICAgICBzb2Z0d2FyZVN5c3RlbSA9IHNvZnR3YXJlU3lzdGVtICJTb2Z0d2FyZSBTeXN0ZW0iCgogICAgICAgIHVzZXIgLT4gc29mdHdhcmVTeXN0ZW0gIlVzZXMiCiAgICB9CgogICAgdmlld3MgewogICAgICAgIHN5c3RlbUNvbnRleHQgc29mdHdhcmVTeXN0ZW0gIkRpYWdyYW0xIiB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBhdXRvTGF5b3V0CiAgICAgICAgfQoKICAgICAgICB0aGVtZSBkZWZhdWx0CiAgICB9Cgp9Cg=="
+    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CiAgICAgICAgdXNlciA9IHBlcnNvbiAiVXNlciIKICAgICAgICBzb2Z0d2FyZVN5c3RlbSA9IHNvZnR3YXJlU3lzdGVtICJHYWluIERhdGEgQ2xlYW5zaW5nIFBpcGVsaW5lIiB7CiAgICAgICAgICAgIERhdGFTb3VyY2VzID0gZ3JvdXAgIkV4ZWN1dGFibGUgU2NoZW1hcyIgewogICAgICAgICAgICAgICAgY29udGFpbmVyICJCbG9vbWJlcmciCiAgICAgICAgICAgICAgICBjb250YWluZXIgIlJlZmluaXR2IgogICAgICAgICAgICAgICAgY29udGFpbmVyICJXTSIKICAgICAgICAgICAgICAgIGNvbnRhaW5lciAiZXRjLiIKICAgICAgICAgICAgfQogICAgICAgICAgICAhZG9jcyBkb2NzCiAgICAgICAgfQoKICAgICAgICB1c2VyIC0+IHNvZnR3YXJlU3lzdGVtICJVc2VzIgogICAgfQoKICAgIHZpZXdzIHsKICAgICAgICBzeXN0ZW1Db250ZXh0IHNvZnR3YXJlU3lzdGVtICJEaWFncmFtMSIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgYXV0b0xheW91dAogICAgICAgIH0KICAgICAgICBjb250YWluZXIgc29mdHdhcmVTeXN0ZW0gewogICAgICAgICAgICBpbmNsdWRlIERhdGFTb3VyY2VzCiAgICAgICAgICAgIGF1dG9MYXlvdXQKICAgICAgICB9CgogICAgICAgIHRoZW1lIGRlZmF1bHQKICAgIH0KCn0K"
   },
   "configuration" : { },
   "model" : {
@@ -15,7 +15,7 @@
       "tags" : "Element,Person",
       "name" : "User",
       "relationships" : [ {
-        "id" : "3",
+        "id" : "7",
         "tags" : "Relationship",
         "sourceId" : "1",
         "destinationId" : "2",
@@ -26,11 +26,40 @@
     "softwareSystems" : [ {
       "id" : "2",
       "tags" : "Element,Software System",
-      "name" : "Software System",
-      "location" : "Unspecified"
+      "name" : "Gain Data Cleansing Pipeline",
+      "location" : "Unspecified",
+      "containers" : [ {
+        "id" : "5",
+        "tags" : "Element,Container",
+        "name" : "WM",
+        "group" : "Executable Schemas"
+      }, {
+        "id" : "3",
+        "tags" : "Element,Container",
+        "name" : "Bloomberg",
+        "group" : "Executable Schemas"
+      }, {
+        "id" : "6",
+        "tags" : "Element,Container",
+        "name" : "etc.",
+        "group" : "Executable Schemas"
+      }, {
+        "id" : "4",
+        "tags" : "Element,Container",
+        "name" : "Refinitv",
+        "group" : "Executable Schemas"
+      } ]
     } ]
   },
-  "documentation" : { },
+  "documentation" : {
+    "sections" : [ {
+      "elementId" : "2",
+      "title" : "ReadMe.md",
+      "order" : 1,
+      "format" : "Markdown",
+      "content" : "# Vision for new Gain Data Cleansing pipeline using GraphQL\r\n\r\nThis is a test of the Structurizr documentation tool.\r\n\r\n![image not available](embed:Diagram1)\r\n"
+    } ]
+  },
   "views" : {
     "systemContextViews" : [ {
       "softwareSystemId" : "2",
@@ -51,15 +80,50 @@
       "enterpriseBoundaryVisible" : true,
       "elements" : [ {
         "id" : "1",
-        "x" : 232,
-        "y" : 207
+        "x" : 233,
+        "y" : 208
       }, {
         "id" : "2",
-        "x" : 207,
-        "y" : 907
+        "x" : 208,
+        "y" : 908
       } ],
       "relationships" : [ {
-        "id" : "3"
+        "id" : "7"
+      } ]
+    } ],
+    "containerViews" : [ {
+      "softwareSystemId" : "2",
+      "key" : "GainDataCleansingPipeline-Container",
+      "paperSize" : "A3_Landscape",
+      "dimensions" : {
+        "width" : 3566,
+        "height" : 1166
+      },
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "externalSoftwareSystemBoundariesVisible" : true,
+      "elements" : [ {
+        "id" : "3",
+        "x" : 2683,
+        "y" : 433
+      }, {
+        "id" : "4",
+        "x" : 1933,
+        "y" : 433
+      }, {
+        "id" : "5",
+        "x" : 1183,
+        "y" : 433
+      }, {
+        "id" : "6",
+        "x" : 433,
+        "y" : 433
       } ]
     } ],
     "configuration" : {
