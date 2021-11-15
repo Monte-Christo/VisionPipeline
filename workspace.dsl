@@ -43,11 +43,11 @@ workspace {
     }
 
     views {
-        systemContext CleansingPipeline "Diagram1" {
+        systemContext CleansingPipeline "SystemContext" {
             include *
             autoLayout
         }
-        container CleansingPipeline {
+        container CleansingPipeline "Containers" {
             include *
             autoLayout
         }

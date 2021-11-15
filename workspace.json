@@ -3,10 +3,10 @@
   "name" : "Name",
   "description" : "Description",
   "revision" : 0,
-  "lastModifiedDate" : "2021-11-15T20:23:34Z",
+  "lastModifiedDate" : "2021-11-15T20:30:32Z",
   "lastModifiedAgent" : "structurizr-web/2544/diagram",
   "properties" : {
-    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CiAgICAgICAgQ2xlYW5zaW5nUGlwZWxpbmUgPSBzb2Z0d2FyZVN5c3RlbSAiR2FpbiBEYXRhIENsZWFuc2luZyBQaXBlbGluZSIgewogICAgICAgICAgICBEYXRhU291cmNlcyA9IGdyb3VwICJEYXRhIFNvdXJjZXMiIHsKICAgICAgICAgICAgICAgIEJCRyA9IGNvbnRhaW5lciAiQmxvb21iZXJnIgogICAgICAgICAgICAgICAgUmVmID0gY29udGFpbmVyICJSZWZpbml0diIKICAgICAgICAgICAgICAgIFdNID0gY29udGFpbmVyICJXTSIKICAgICAgICAgICAgICAgIEV0YyA9IGNvbnRhaW5lciAiZXRjLiIKICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgRGF0YVNvdXJjZUdhdGV3YXkgPSBjb250YWluZXIgIkdyYXBoUUwgTWVzaCIKICAgICAgICAgICAgU3RhZ2luZ0FyZWEgPSBjb250YWluZXIgIkRvY3VtZW50IERhdGFiYXNlIgogICAgICAgICAgICBQaXBlbGluZUZhY2FkZSA9IGNvbnRhaW5lciAiR3JhcGhRTCBFbnZlbG9wIgogICAgICAgICAgICBGYWNhZGVJbXBsZW1lbnRhdGlvbiA9IGNvbnRhaW5lciAiR3JhcGhRTCBQbHVnaW5zIgogICAgICAgICAgICBQaXBlbGluZUZ1bmN0aW9ucyA9IGdyb3VwICJBenVyZSBGdW5jdGlvbnMiIHsKICAgICAgICAgICAgICAgIEYxID0gY29udGFpbmVyICJGdW5jdGlvbiAxIgogICAgICAgICAgICAgICAgRjIgPSBjb250YWluZXIgIkZ1bmN0aW9uIDIiCiAgICAgICAgICAgICAgICBNb3JlID0gY29udGFpbmVyICIuLi4iCiAgICAgICAgICAgICAgICBGbiA9IGNvbnRhaW5lciAiRnVuY3Rpb24gbiIKICAgICAgICAgICAgfQogICAgICAgICAgICBWYWxpZGF0aW9uU2VydmljZSA9IGNvbnRhaW5lciAiVmFsaWRhdGlvbiBTZXJ2aWNlIgogICAgICAgICAgICBQdWJsaWNhdGlvblNlcnZpY2UgPSBjb250YWluZXIgIlB1YmxpY2F0aW9uIFNlcnZpY2UiCgogICAgICAgICAgICAhZG9jcyBkb2NzCiAgICAgICAgfQoKICAgICAgICBCQkcgLT4gRGF0YVNvdXJjZUdhdGV3YXkgImludm9rZXMiCiAgICAgICAgUmVmIC0+IERhdGFTb3VyY2VHYXRld2F5ICJpbnZva2VzIgogICAgICAgIEV0YyAtPiBEYXRhU291cmNlR2F0ZXdheSAiaW52b2tlcyIKICAgICAgICBXTSAtPiBEYXRhU291cmNlR2F0ZXdheSAiaW52b2tlcyIKCiAgICAgICAgRGF0YVNvdXJjZUdhdGV3YXkgLT4gU3RhZ2luZ0FyZWEgInN0b3JlcyByYXcgZGF0YSBpbiIKICAgICAgICBEYXRhU291cmNlR2F0ZXdheSAtPiBQaXBlbGluZUZhY2FkZSAiY2FsbHMiCiAgICAgICAgUGlwZWxpbmVGYWNhZGUgLT4gRjEgImludm9rZXMiCiAgICAgICAgUGlwZWxpbmVGYWNhZGUgLT4gRjIgImludm9rZXMiCiAgICAgICAgUGlwZWxpbmVGYWNhZGUgLT4gTW9yZSAiaW52b2tlcyIKICAgICAgICBQaXBlbGluZUZhY2FkZSAtPiBGbiAiaW52b2tlcyIKCiAgICAgICAgUGlwZWxpbmVGYWNhZGUgLT4gRmFjYWRlSW1wbGVtZW50YXRpb24gImlzIGltcGxlbWVudGVkIGJ5IgogICAgICAgIFBpcGVsaW5lRmFjYWRlIC0+IFZhbGlkYXRpb25TZXJ2aWNlICJ1c2VzIgogICAgICAgIFBpcGVsaW5lRmFjYWRlIC0+IFB1YmxpY2F0aW9uU2VydmljZSAidXNlcyIKICAgIH0KCiAgICB2aWV3cyB7CiAgICAgICAgc3lzdGVtQ29udGV4dCBDbGVhbnNpbmdQaXBlbGluZSAiRGlhZ3JhbTEiIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGF1dG9MYXlvdXQKICAgICAgICB9CiAgICAgICAgY29udGFpbmVyIENsZWFuc2luZ1BpcGVsaW5lIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGF1dG9MYXlvdXQKICAgICAgICB9CgogICAgICAgIHRoZW1lIGRlZmF1bHQKICAgIH0KCn0K"
+    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CiAgICAgICAgQ2xlYW5zaW5nUGlwZWxpbmUgPSBzb2Z0d2FyZVN5c3RlbSAiR2FpbiBEYXRhIENsZWFuc2luZyBQaXBlbGluZSIgewogICAgICAgICAgICBEYXRhU291cmNlcyA9IGdyb3VwICJEYXRhIFNvdXJjZXMiIHsKICAgICAgICAgICAgICAgIEJCRyA9IGNvbnRhaW5lciAiQmxvb21iZXJnIgogICAgICAgICAgICAgICAgUmVmID0gY29udGFpbmVyICJSZWZpbml0diIKICAgICAgICAgICAgICAgIFdNID0gY29udGFpbmVyICJXTSIKICAgICAgICAgICAgICAgIEV0YyA9IGNvbnRhaW5lciAiZXRjLiIKICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgRGF0YVNvdXJjZUdhdGV3YXkgPSBjb250YWluZXIgIkdyYXBoUUwgTWVzaCIKICAgICAgICAgICAgU3RhZ2luZ0FyZWEgPSBjb250YWluZXIgIkRvY3VtZW50IERhdGFiYXNlIgogICAgICAgICAgICBQaXBlbGluZUZhY2FkZSA9IGNvbnRhaW5lciAiR3JhcGhRTCBFbnZlbG9wIgogICAgICAgICAgICBGYWNhZGVJbXBsZW1lbnRhdGlvbiA9IGNvbnRhaW5lciAiR3JhcGhRTCBQbHVnaW5zIgogICAgICAgICAgICBQaXBlbGluZUZ1bmN0aW9ucyA9IGdyb3VwICJBenVyZSBGdW5jdGlvbnMiIHsKICAgICAgICAgICAgICAgIEYxID0gY29udGFpbmVyICJGdW5jdGlvbiAxIgogICAgICAgICAgICAgICAgRjIgPSBjb250YWluZXIgIkZ1bmN0aW9uIDIiCiAgICAgICAgICAgICAgICBNb3JlID0gY29udGFpbmVyICIuLi4iCiAgICAgICAgICAgICAgICBGbiA9IGNvbnRhaW5lciAiRnVuY3Rpb24gbiIKICAgICAgICAgICAgfQogICAgICAgICAgICBWYWxpZGF0aW9uU2VydmljZSA9IGNvbnRhaW5lciAiVmFsaWRhdGlvbiBTZXJ2aWNlIgogICAgICAgICAgICBQdWJsaWNhdGlvblNlcnZpY2UgPSBjb250YWluZXIgIlB1YmxpY2F0aW9uIFNlcnZpY2UiCgogICAgICAgICAgICAhZG9jcyBkb2NzCiAgICAgICAgfQoKICAgICAgICBCQkcgLT4gRGF0YVNvdXJjZUdhdGV3YXkgImludm9rZXMiCiAgICAgICAgUmVmIC0+IERhdGFTb3VyY2VHYXRld2F5ICJpbnZva2VzIgogICAgICAgIEV0YyAtPiBEYXRhU291cmNlR2F0ZXdheSAiaW52b2tlcyIKICAgICAgICBXTSAtPiBEYXRhU291cmNlR2F0ZXdheSAiaW52b2tlcyIKCiAgICAgICAgRGF0YVNvdXJjZUdhdGV3YXkgLT4gU3RhZ2luZ0FyZWEgInN0b3JlcyByYXcgZGF0YSBpbiIKICAgICAgICBEYXRhU291cmNlR2F0ZXdheSAtPiBQaXBlbGluZUZhY2FkZSAiY2FsbHMiCiAgICAgICAgUGlwZWxpbmVGYWNhZGUgLT4gRjEgImludm9rZXMiCiAgICAgICAgUGlwZWxpbmVGYWNhZGUgLT4gRjIgImludm9rZXMiCiAgICAgICAgUGlwZWxpbmVGYWNhZGUgLT4gTW9yZSAiaW52b2tlcyIKICAgICAgICBQaXBlbGluZUZhY2FkZSAtPiBGbiAiaW52b2tlcyIKCiAgICAgICAgUGlwZWxpbmVGYWNhZGUgLT4gRmFjYWRlSW1wbGVtZW50YXRpb24gImlzIGltcGxlbWVudGVkIGJ5IgogICAgICAgIFBpcGVsaW5lRmFjYWRlIC0+IFZhbGlkYXRpb25TZXJ2aWNlICJ1c2VzIgogICAgICAgIFBpcGVsaW5lRmFjYWRlIC0+IFB1YmxpY2F0aW9uU2VydmljZSAidXNlcyIKICAgIH0KCiAgICB2aWV3cyB7CiAgICAgICAgc3lzdGVtQ29udGV4dCBDbGVhbnNpbmdQaXBlbGluZSAiU3lzdGVtQ29udGV4dCIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgYXV0b0xheW91dAogICAgICAgIH0KICAgICAgICBjb250YWluZXIgQ2xlYW5zaW5nUGlwZWxpbmUgIkNvbnRhaW5lcnMiIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGF1dG9MYXlvdXQKICAgICAgICB9CgogICAgICAgIHRoZW1lIGRlZmF1bHQKICAgIH0KCn0K"
   },
   "configuration" : { },
   "model" : {
@@ -16,110 +16,30 @@
       "name" : "Gain Data Cleansing Pipeline",
       "location" : "Unspecified",
       "containers" : [ {
-        "id" : "3",
+        "id" : "7",
         "tags" : "Element,Container",
-        "name" : "Refinitv",
-        "relationships" : [ {
-          "id" : "17",
-          "tags" : "Relationship",
-          "sourceId" : "3",
-          "destinationId" : "6",
-          "description" : "invokes"
-        } ],
-        "group" : "Data Sources"
+        "name" : "Document Database"
+      }, {
+        "id" : "15",
+        "tags" : "Element,Container",
+        "name" : "Publication Service"
       }, {
         "id" : "11",
         "tags" : "Element,Container",
         "name" : "Function 2",
         "group" : "Azure Functions"
       }, {
-        "id" : "8",
+        "id" : "4",
         "tags" : "Element,Container",
-        "name" : "GraphQL Envelop",
+        "name" : "WM",
         "relationships" : [ {
-          "id" : "25",
+          "id" : "19",
           "tags" : "Relationship",
-          "sourceId" : "8",
-          "destinationId" : "13",
-          "description" : "invokes"
-        }, {
-          "id" : "23",
-          "tags" : "Relationship",
-          "sourceId" : "8",
-          "destinationId" : "11",
-          "description" : "invokes"
-        }, {
-          "id" : "26",
-          "tags" : "Relationship",
-          "sourceId" : "8",
-          "destinationId" : "9",
-          "description" : "is implemented by"
-        }, {
-          "id" : "28",
-          "tags" : "Relationship",
-          "sourceId" : "8",
-          "destinationId" : "15",
-          "description" : "uses"
-        }, {
-          "id" : "22",
-          "tags" : "Relationship",
-          "sourceId" : "8",
-          "destinationId" : "10",
-          "description" : "invokes"
-        }, {
-          "id" : "24",
-          "tags" : "Relationship",
-          "sourceId" : "8",
-          "destinationId" : "12",
-          "description" : "invokes"
-        }, {
-          "id" : "27",
-          "tags" : "Relationship",
-          "sourceId" : "8",
-          "destinationId" : "14",
-          "description" : "uses"
-        } ]
-      }, {
-        "id" : "12",
-        "tags" : "Element,Container",
-        "name" : "...",
-        "group" : "Azure Functions"
-      }, {
-        "id" : "2",
-        "tags" : "Element,Container",
-        "name" : "Bloomberg",
-        "relationships" : [ {
-          "id" : "16",
-          "tags" : "Relationship",
-          "sourceId" : "2",
+          "sourceId" : "4",
           "destinationId" : "6",
           "description" : "invokes"
         } ],
         "group" : "Data Sources"
-      }, {
-        "id" : "7",
-        "tags" : "Element,Container",
-        "name" : "Document Database"
-      }, {
-        "id" : "5",
-        "tags" : "Element,Container",
-        "name" : "etc.",
-        "relationships" : [ {
-          "id" : "18",
-          "tags" : "Relationship",
-          "sourceId" : "5",
-          "destinationId" : "6",
-          "description" : "invokes"
-        } ],
-        "group" : "Data Sources"
-      }, {
-        "id" : "15",
-        "tags" : "Element,Container",
-        "name" : "Publication Service"
-      }, {
-        "id" : "14",
-        "tags" : "Element,Container",
-        "name" : "Validation Service"
       }, {
         "id" : "6",
         "tags" : "Element,Container",
@@ -138,47 +58,127 @@
           "description" : "calls"
         } ]
       }, {
-        "id" : "4",
+        "id" : "14",
         "tags" : "Element,Container",
-        "name" : "WM",
+        "name" : "Validation Service"
+      }, {
+        "id" : "12",
+        "tags" : "Element,Container",
+        "name" : "...",
+        "group" : "Azure Functions"
+      }, {
+        "id" : "10",
+        "tags" : "Element,Container",
+        "name" : "Function 1",
+        "group" : "Azure Functions"
+      }, {
+        "id" : "8",
+        "tags" : "Element,Container",
+        "name" : "GraphQL Envelop",
         "relationships" : [ {
-          "id" : "19",
+          "id" : "27",
           "tags" : "Relationship",
-          "sourceId" : "4",
+          "sourceId" : "8",
+          "destinationId" : "14",
+          "description" : "uses"
+        }, {
+          "id" : "25",
+          "tags" : "Relationship",
+          "sourceId" : "8",
+          "destinationId" : "13",
+          "description" : "invokes"
+        }, {
+          "id" : "22",
+          "tags" : "Relationship",
+          "sourceId" : "8",
+          "destinationId" : "10",
+          "description" : "invokes"
+        }, {
+          "id" : "23",
+          "tags" : "Relationship",
+          "sourceId" : "8",
+          "destinationId" : "11",
+          "description" : "invokes"
+        }, {
+          "id" : "24",
+          "tags" : "Relationship",
+          "sourceId" : "8",
+          "destinationId" : "12",
+          "description" : "invokes"
+        }, {
+          "id" : "26",
+          "tags" : "Relationship",
+          "sourceId" : "8",
+          "destinationId" : "9",
+          "description" : "is implemented by"
+        }, {
+          "id" : "28",
+          "tags" : "Relationship",
+          "sourceId" : "8",
+          "destinationId" : "15",
+          "description" : "uses"
+        } ]
+      }, {
+        "id" : "3",
+        "tags" : "Element,Container",
+        "name" : "Refinitv",
+        "relationships" : [ {
+          "id" : "17",
+          "tags" : "Relationship",
+          "sourceId" : "3",
           "destinationId" : "6",
           "description" : "invokes"
         } ],
         "group" : "Data Sources"
+      }, {
+        "id" : "5",
+        "tags" : "Element,Container",
+        "name" : "etc.",
+        "relationships" : [ {
+          "id" : "18",
+          "tags" : "Relationship",
+          "sourceId" : "5",
+          "destinationId" : "6",
+          "description" : "invokes"
+        } ],
+        "group" : "Data Sources"
+      }, {
+        "id" : "9",
+        "tags" : "Element,Container",
+        "name" : "GraphQL Plugins"
       }, {
         "id" : "13",
         "tags" : "Element,Container",
         "name" : "Function n",
         "group" : "Azure Functions"
       }, {
-        "id" : "9",
+        "id" : "2",
         "tags" : "Element,Container",
-        "name" : "GraphQL Plugins"
-      }, {
-        "id" : "10",
-        "tags" : "Element,Container",
-        "name" : "Function 1",
-        "group" : "Azure Functions"
+        "name" : "Bloomberg",
+        "relationships" : [ {
+          "id" : "16",
+          "tags" : "Relationship",
+          "sourceId" : "2",
+          "destinationId" : "6",
+          "description" : "invokes"
+        } ],
+        "group" : "Data Sources"
       } ]
     } ]
   },
   "documentation" : {
     "sections" : [ {
       "elementId" : "1",
-      "title" : "ReadMe.md",
+      "title" : "Overview",
       "order" : 1,
       "format" : "Markdown",
-      "content" : "# Vision for new Gain Data Cleansing pipeline using GraphQL\r\n\r\nThis is a test of the Structurizr documentation tool.\r\n\r\n![image not available](embed:Diagram1)\r\n"
+      "content" : "# Vision for new Gain Data Cleansing pipeline using GraphQL\r\n\r\nThis is a test of the Structurizr documentation tool.\r\n\r\n## Overview\r\n\r\n![image not available](embed:SystemContext)\r\n\r\n## Detail View\r\n\r\n![image not available](embed:Containers)\r\n"
     } ]
   },
   "views" : {
     "systemContextViews" : [ {
       "softwareSystemId" : "1",
-      "key" : "Diagram1",
+      "key" : "SystemContext",
       "paperSize" : "A6_Landscape",
       "dimensions" : {
         "width" : 866,
@@ -195,13 +195,13 @@
       "enterpriseBoundaryVisible" : true,
       "elements" : [ {
         "id" : "1",
-        "x" : 208,
+        "x" : 207,
         "y" : 208
       } ]
     } ],
     "containerViews" : [ {
       "softwareSystemId" : "1",
-      "key" : "GainDataCleansingPipeline-Container",
+      "key" : "Containers",
       "paperSize" : "A2_Landscape",
       "dimensions" : {
         "width" : 5712,
@@ -218,60 +218,60 @@
       "externalSoftwareSystemBoundariesVisible" : true,
       "elements" : [ {
         "id" : "11",
-        "x" : 2641,
-        "y" : 2169
+        "x" : 2683,
+        "y" : 2233
       }, {
         "id" : "12",
-        "x" : 1891,
-        "y" : 2169
+        "x" : 1933,
+        "y" : 2233
       }, {
         "id" : "13",
-        "x" : 1141,
-        "y" : 2169
+        "x" : 1183,
+        "y" : 2233
       }, {
         "id" : "14",
-        "x" : 3391,
-        "y" : 2169
+        "x" : 3433,
+        "y" : 2233
       }, {
         "id" : "15",
-        "x" : 4141,
-        "y" : 2169
+        "x" : 4183,
+        "y" : 2233
       }, {
         "id" : "2",
-        "x" : 3391,
-        "y" : 369
+        "x" : 3433,
+        "y" : 433
       }, {
         "id" : "3",
-        "x" : 2641,
-        "y" : 369
+        "x" : 2683,
+        "y" : 433
       }, {
         "id" : "4",
-        "x" : 1891,
-        "y" : 369
+        "x" : 1933,
+        "y" : 433
       }, {
         "id" : "5",
-        "x" : 1141,
-        "y" : 369
+        "x" : 1183,
+        "y" : 433
       }, {
         "id" : "6",
-        "x" : 2266,
-        "y" : 969
+        "x" : 2308,
+        "y" : 1033
       }, {
         "id" : "7",
-        "x" : 1891,
-        "y" : 1569
+        "x" : 1933,
+        "y" : 1633
       }, {
         "id" : "8",
-        "x" : 2641,
-        "y" : 1569
+        "x" : 2683,
+        "y" : 1633
       }, {
         "id" : "9",
-        "x" : 4891,
-        "y" : 2169
+        "x" : 4933,
+        "y" : 2233
       }, {
         "id" : "10",
-        "x" : 391,
-        "y" : 2169
+        "x" : 433,
+        "y" : 2233
       } ],
       "relationships" : [ {
         "id" : "21"
@@ -280,39 +280,39 @@
       }, {
         "id" : "18",
         "vertices" : [ {
-          "x" : 1741,
-          "y" : 773
+          "x" : 1783,
+          "y" : 837
         } ]
       }, {
         "id" : "17"
       }, {
         "id" : "28",
         "vertices" : [ {
-          "x" : 3991,
-          "y" : 2065
-        } ]
-      }, {
-        "id" : "16",
-        "vertices" : [ {
-          "x" : 3241,
-          "y" : 773
+          "x" : 4033,
+          "y" : 2129
         } ]
       }, {
         "id" : "27"
       }, {
+        "id" : "16",
+        "vertices" : [ {
+          "x" : 3283,
+          "y" : 837
+        } ]
+      }, {
         "id" : "26",
         "vertices" : [ {
-          "x" : 4741,
-          "y" : 2065
+          "x" : 4783,
+          "y" : 2129
         } ]
       }, {
         "id" : "25",
         "vertices" : [ {
-          "x" : 2491,
-          "y" : 1869
+          "x" : 2533,
+          "y" : 1933
         }, {
-          "x" : 1741,
-          "y" : 2065
+          "x" : 1783,
+          "y" : 2129
         } ]
       }, {
         "id" : "24"
@@ -321,11 +321,11 @@
       }, {
         "id" : "22",
         "vertices" : [ {
-          "x" : 2491,
-          "y" : 1869
+          "x" : 2533,
+          "y" : 1933
         }, {
-          "x" : 991,
-          "y" : 2065
+          "x" : 1033,
+          "y" : 2129
         } ]
       }, {
         "id" : "19"
@@ -336,7 +336,7 @@
       "styles" : { },
       "themes" : [ "https://static.structurizr.com/themes/default/theme.json" ],
       "terminology" : { },
-      "lastSavedView" : "GainDataCleansingPipeline-Container"
+      "lastSavedView" : "SystemContext"
     }
   }
 }

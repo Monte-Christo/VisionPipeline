@@ -2,4 +2,10 @@
 
 This is a test of the Structurizr documentation tool.
 
-![image not available](embed:Diagram1)
+## Overview
+
+![image not available](embed:SystemContext)
+
+## Detail View
+
+![image not available](embed:Containers)
