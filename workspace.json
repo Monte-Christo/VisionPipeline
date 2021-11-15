@@ -3,57 +3,172 @@
   "name" : "Name",
   "description" : "Description",
   "revision" : 0,
-  "lastModifiedDate" : "2021-11-13T15:51:51Z",
+  "lastModifiedDate" : "2021-11-15T20:23:34Z",
   "lastModifiedAgent" : "structurizr-web/2544/diagram",
   "properties" : {
-    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CiAgICAgICAgdXNlciA9IHBlcnNvbiAiVXNlciIKICAgICAgICBzb2Z0d2FyZVN5c3RlbSA9IHNvZnR3YXJlU3lzdGVtICJHYWluIERhdGEgQ2xlYW5zaW5nIFBpcGVsaW5lIiB7CiAgICAgICAgICAgIERhdGFTb3VyY2VzID0gZ3JvdXAgIkV4ZWN1dGFibGUgU2NoZW1hcyIgewogICAgICAgICAgICAgICAgY29udGFpbmVyICJCbG9vbWJlcmciCiAgICAgICAgICAgICAgICBjb250YWluZXIgIlJlZmluaXR2IgogICAgICAgICAgICAgICAgY29udGFpbmVyICJXTSIKICAgICAgICAgICAgICAgIGNvbnRhaW5lciAiZXRjLiIKICAgICAgICAgICAgfQogICAgICAgICAgICAhZG9jcyBkb2NzCiAgICAgICAgfQoKICAgICAgICB1c2VyIC0+IHNvZnR3YXJlU3lzdGVtICJVc2VzIgogICAgfQoKICAgIHZpZXdzIHsKICAgICAgICBzeXN0ZW1Db250ZXh0IHNvZnR3YXJlU3lzdGVtICJEaWFncmFtMSIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgYXV0b0xheW91dAogICAgICAgIH0KICAgICAgICBjb250YWluZXIgc29mdHdhcmVTeXN0ZW0gewogICAgICAgICAgICBpbmNsdWRlIERhdGFTb3VyY2VzCiAgICAgICAgICAgIGF1dG9MYXlvdXQKICAgICAgICB9CgogICAgICAgIHRoZW1lIGRlZmF1bHQKICAgIH0KCn0K"
+    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CiAgICAgICAgQ2xlYW5zaW5nUGlwZWxpbmUgPSBzb2Z0d2FyZVN5c3RlbSAiR2FpbiBEYXRhIENsZWFuc2luZyBQaXBlbGluZSIgewogICAgICAgICAgICBEYXRhU291cmNlcyA9IGdyb3VwICJEYXRhIFNvdXJjZXMiIHsKICAgICAgICAgICAgICAgIEJCRyA9IGNvbnRhaW5lciAiQmxvb21iZXJnIgogICAgICAgICAgICAgICAgUmVmID0gY29udGFpbmVyICJSZWZpbml0diIKICAgICAgICAgICAgICAgIFdNID0gY29udGFpbmVyICJXTSIKICAgICAgICAgICAgICAgIEV0YyA9IGNvbnRhaW5lciAiZXRjLiIKICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgRGF0YVNvdXJjZUdhdGV3YXkgPSBjb250YWluZXIgIkdyYXBoUUwgTWVzaCIKICAgICAgICAgICAgU3RhZ2luZ0FyZWEgPSBjb250YWluZXIgIkRvY3VtZW50IERhdGFiYXNlIgogICAgICAgICAgICBQaXBlbGluZUZhY2FkZSA9IGNvbnRhaW5lciAiR3JhcGhRTCBFbnZlbG9wIgogICAgICAgICAgICBGYWNhZGVJbXBsZW1lbnRhdGlvbiA9IGNvbnRhaW5lciAiR3JhcGhRTCBQbHVnaW5zIgogICAgICAgICAgICBQaXBlbGluZUZ1bmN0aW9ucyA9IGdyb3VwICJBenVyZSBGdW5jdGlvbnMiIHsKICAgICAgICAgICAgICAgIEYxID0gY29udGFpbmVyICJGdW5jdGlvbiAxIgogICAgICAgICAgICAgICAgRjIgPSBjb250YWluZXIgIkZ1bmN0aW9uIDIiCiAgICAgICAgICAgICAgICBNb3JlID0gY29udGFpbmVyICIuLi4iCiAgICAgICAgICAgICAgICBGbiA9IGNvbnRhaW5lciAiRnVuY3Rpb24gbiIKICAgICAgICAgICAgfQogICAgICAgICAgICBWYWxpZGF0aW9uU2VydmljZSA9IGNvbnRhaW5lciAiVmFsaWRhdGlvbiBTZXJ2aWNlIgogICAgICAgICAgICBQdWJsaWNhdGlvblNlcnZpY2UgPSBjb250YWluZXIgIlB1YmxpY2F0aW9uIFNlcnZpY2UiCgogICAgICAgICAgICAhZG9jcyBkb2NzCiAgICAgICAgfQoKICAgICAgICBCQkcgLT4gRGF0YVNvdXJjZUdhdGV3YXkgImludm9rZXMiCiAgICAgICAgUmVmIC0+IERhdGFTb3VyY2VHYXRld2F5ICJpbnZva2VzIgogICAgICAgIEV0YyAtPiBEYXRhU291cmNlR2F0ZXdheSAiaW52b2tlcyIKICAgICAgICBXTSAtPiBEYXRhU291cmNlR2F0ZXdheSAiaW52b2tlcyIKCiAgICAgICAgRGF0YVNvdXJjZUdhdGV3YXkgLT4gU3RhZ2luZ0FyZWEgInN0b3JlcyByYXcgZGF0YSBpbiIKICAgICAgICBEYXRhU291cmNlR2F0ZXdheSAtPiBQaXBlbGluZUZhY2FkZSAiY2FsbHMiCiAgICAgICAgUGlwZWxpbmVGYWNhZGUgLT4gRjEgImludm9rZXMiCiAgICAgICAgUGlwZWxpbmVGYWNhZGUgLT4gRjIgImludm9rZXMiCiAgICAgICAgUGlwZWxpbmVGYWNhZGUgLT4gTW9yZSAiaW52b2tlcyIKICAgICAgICBQaXBlbGluZUZhY2FkZSAtPiBGbiAiaW52b2tlcyIKCiAgICAgICAgUGlwZWxpbmVGYWNhZGUgLT4gRmFjYWRlSW1wbGVtZW50YXRpb24gImlzIGltcGxlbWVudGVkIGJ5IgogICAgICAgIFBpcGVsaW5lRmFjYWRlIC0+IFZhbGlkYXRpb25TZXJ2aWNlICJ1c2VzIgogICAgICAgIFBpcGVsaW5lRmFjYWRlIC0+IFB1YmxpY2F0aW9uU2VydmljZSAidXNlcyIKICAgIH0KCiAgICB2aWV3cyB7CiAgICAgICAgc3lzdGVtQ29udGV4dCBDbGVhbnNpbmdQaXBlbGluZSAiRGlhZ3JhbTEiIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGF1dG9MYXlvdXQKICAgICAgICB9CiAgICAgICAgY29udGFpbmVyIENsZWFuc2luZ1BpcGVsaW5lIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGF1dG9MYXlvdXQKICAgICAgICB9CgogICAgICAgIHRoZW1lIGRlZmF1bHQKICAgIH0KCn0K"
   },
   "configuration" : { },
   "model" : {
-    "people" : [ {
-      "id" : "1",
-      "tags" : "Element,Person",
-      "name" : "User",
-      "relationships" : [ {
-        "id" : "7",
-        "tags" : "Relationship",
-        "sourceId" : "1",
-        "destinationId" : "2",
-        "description" : "Uses"
-      } ],
-      "location" : "Unspecified"
-    } ],
     "softwareSystems" : [ {
-      "id" : "2",
+      "id" : "1",
       "tags" : "Element,Software System",
       "name" : "Gain Data Cleansing Pipeline",
       "location" : "Unspecified",
       "containers" : [ {
-        "id" : "5",
-        "tags" : "Element,Container",
-        "name" : "WM",
-        "group" : "Executable Schemas"
-      }, {
         "id" : "3",
         "tags" : "Element,Container",
+        "name" : "Refinitv",
+        "relationships" : [ {
+          "id" : "17",
+          "tags" : "Relationship",
+          "sourceId" : "3",
+          "destinationId" : "6",
+          "description" : "invokes"
+        } ],
+        "group" : "Data Sources"
+      }, {
+        "id" : "11",
+        "tags" : "Element,Container",
+        "name" : "Function 2",
+        "group" : "Azure Functions"
+      }, {
+        "id" : "8",
+        "tags" : "Element,Container",
+        "name" : "GraphQL Envelop",
+        "relationships" : [ {
+          "id" : "25",
+          "tags" : "Relationship",
+          "sourceId" : "8",
+          "destinationId" : "13",
+          "description" : "invokes"
+        }, {
+          "id" : "23",
+          "tags" : "Relationship",
+          "sourceId" : "8",
+          "destinationId" : "11",
+          "description" : "invokes"
+        }, {
+          "id" : "26",
+          "tags" : "Relationship",
+          "sourceId" : "8",
+          "destinationId" : "9",
+          "description" : "is implemented by"
+        }, {
+          "id" : "28",
+          "tags" : "Relationship",
+          "sourceId" : "8",
+          "destinationId" : "15",
+          "description" : "uses"
+        }, {
+          "id" : "22",
+          "tags" : "Relationship",
+          "sourceId" : "8",
+          "destinationId" : "10",
+          "description" : "invokes"
+        }, {
+          "id" : "24",
+          "tags" : "Relationship",
+          "sourceId" : "8",
+          "destinationId" : "12",
+          "description" : "invokes"
+        }, {
+          "id" : "27",
+          "tags" : "Relationship",
+          "sourceId" : "8",
+          "destinationId" : "14",
+          "description" : "uses"
+        } ]
+      }, {
+        "id" : "12",
+        "tags" : "Element,Container",
+        "name" : "...",
+        "group" : "Azure Functions"
+      }, {
+        "id" : "2",
+        "tags" : "Element,Container",
         "name" : "Bloomberg",
-        "group" : "Executable Schemas"
+        "relationships" : [ {
+          "id" : "16",
+          "tags" : "Relationship",
+          "sourceId" : "2",
+          "destinationId" : "6",
+          "description" : "invokes"
+        } ],
+        "group" : "Data Sources"
+      }, {
+        "id" : "7",
+        "tags" : "Element,Container",
+        "name" : "Document Database"
+      }, {
+        "id" : "5",
+        "tags" : "Element,Container",
+        "name" : "etc.",
+        "relationships" : [ {
+          "id" : "18",
+          "tags" : "Relationship",
+          "sourceId" : "5",
+          "destinationId" : "6",
+          "description" : "invokes"
+        } ],
+        "group" : "Data Sources"
+      }, {
+        "id" : "15",
+        "tags" : "Element,Container",
+        "name" : "Publication Service"
+      }, {
+        "id" : "14",
+        "tags" : "Element,Container",
+        "name" : "Validation Service"
       }, {
         "id" : "6",
         "tags" : "Element,Container",
-        "name" : "etc.",
-        "group" : "Executable Schemas"
+        "name" : "GraphQL Mesh",
+        "relationships" : [ {
+          "id" : "20",
+          "tags" : "Relationship",
+          "sourceId" : "6",
+          "destinationId" : "7",
+          "description" : "stores raw data in"
+        }, {
+          "id" : "21",
+          "tags" : "Relationship",
+          "sourceId" : "6",
+          "destinationId" : "8",
+          "description" : "calls"
+        } ]
       }, {
         "id" : "4",
         "tags" : "Element,Container",
-        "name" : "Refinitv",
-        "group" : "Executable Schemas"
+        "name" : "WM",
+        "relationships" : [ {
+          "id" : "19",
+          "tags" : "Relationship",
+          "sourceId" : "4",
+          "destinationId" : "6",
+          "description" : "invokes"
+        } ],
+        "group" : "Data Sources"
+      }, {
+        "id" : "13",
+        "tags" : "Element,Container",
+        "name" : "Function n",
+        "group" : "Azure Functions"
+      }, {
+        "id" : "9",
+        "tags" : "Element,Container",
+        "name" : "GraphQL Plugins"
+      }, {
+        "id" : "10",
+        "tags" : "Element,Container",
+        "name" : "Function 1",
+        "group" : "Azure Functions"
       } ]
     } ]
   },
   "documentation" : {
     "sections" : [ {
-      "elementId" : "2",
+      "elementId" : "1",
       "title" : "ReadMe.md",
       "order" : 1,
       "format" : "Markdown",
@@ -62,12 +177,12 @@
   },
   "views" : {
     "systemContextViews" : [ {
-      "softwareSystemId" : "2",
+      "softwareSystemId" : "1",
       "key" : "Diagram1",
-      "paperSize" : "A6_Portrait",
+      "paperSize" : "A6_Landscape",
       "dimensions" : {
         "width" : 866,
-        "height" : 1416
+        "height" : 716
       },
       "automaticLayout" : {
         "implementation" : "Graphviz",
@@ -80,24 +195,17 @@
       "enterpriseBoundaryVisible" : true,
       "elements" : [ {
         "id" : "1",
-        "x" : 233,
-        "y" : 208
-      }, {
-        "id" : "2",
         "x" : 208,
-        "y" : 908
-      } ],
-      "relationships" : [ {
-        "id" : "7"
+        "y" : 208
       } ]
     } ],
     "containerViews" : [ {
-      "softwareSystemId" : "2",
+      "softwareSystemId" : "1",
       "key" : "GainDataCleansingPipeline-Container",
-      "paperSize" : "A3_Landscape",
+      "paperSize" : "A2_Landscape",
       "dimensions" : {
-        "width" : 3566,
-        "height" : 1166
+        "width" : 5712,
+        "height" : 2966
       },
       "automaticLayout" : {
         "implementation" : "Graphviz",
@@ -109,21 +217,118 @@
       },
       "externalSoftwareSystemBoundariesVisible" : true,
       "elements" : [ {
+        "id" : "11",
+        "x" : 2641,
+        "y" : 2169
+      }, {
+        "id" : "12",
+        "x" : 1891,
+        "y" : 2169
+      }, {
+        "id" : "13",
+        "x" : 1141,
+        "y" : 2169
+      }, {
+        "id" : "14",
+        "x" : 3391,
+        "y" : 2169
+      }, {
+        "id" : "15",
+        "x" : 4141,
+        "y" : 2169
+      }, {
+        "id" : "2",
+        "x" : 3391,
+        "y" : 369
+      }, {
         "id" : "3",
-        "x" : 2683,
-        "y" : 433
+        "x" : 2641,
+        "y" : 369
       }, {
         "id" : "4",
-        "x" : 1933,
-        "y" : 433
+        "x" : 1891,
+        "y" : 369
       }, {
         "id" : "5",
-        "x" : 1183,
-        "y" : 433
+        "x" : 1141,
+        "y" : 369
       }, {
         "id" : "6",
-        "x" : 433,
-        "y" : 433
+        "x" : 2266,
+        "y" : 969
+      }, {
+        "id" : "7",
+        "x" : 1891,
+        "y" : 1569
+      }, {
+        "id" : "8",
+        "x" : 2641,
+        "y" : 1569
+      }, {
+        "id" : "9",
+        "x" : 4891,
+        "y" : 2169
+      }, {
+        "id" : "10",
+        "x" : 391,
+        "y" : 2169
+      } ],
+      "relationships" : [ {
+        "id" : "21"
+      }, {
+        "id" : "20"
+      }, {
+        "id" : "18",
+        "vertices" : [ {
+          "x" : 1741,
+          "y" : 773
+        } ]
+      }, {
+        "id" : "17"
+      }, {
+        "id" : "28",
+        "vertices" : [ {
+          "x" : 3991,
+          "y" : 2065
+        } ]
+      }, {
+        "id" : "16",
+        "vertices" : [ {
+          "x" : 3241,
+          "y" : 773
+        } ]
+      }, {
+        "id" : "27"
+      }, {
+        "id" : "26",
+        "vertices" : [ {
+          "x" : 4741,
+          "y" : 2065
+        } ]
+      }, {
+        "id" : "25",
+        "vertices" : [ {
+          "x" : 2491,
+          "y" : 1869
+        }, {
+          "x" : 1741,
+          "y" : 2065
+        } ]
+      }, {
+        "id" : "24"
+      }, {
+        "id" : "23"
+      }, {
+        "id" : "22",
+        "vertices" : [ {
+          "x" : 2491,
+          "y" : 1869
+        }, {
+          "x" : 991,
+          "y" : 2065
+        } ]
+      }, {
+        "id" : "19"
       } ]
     } ],
     "configuration" : {
@@ -131,7 +336,7 @@
       "styles" : { },
       "themes" : [ "https://static.structurizr.com/themes/default/theme.json" ],
       "terminology" : { },
-      "lastSavedView" : "Diagram1"
+      "lastSavedView" : "GainDataCleansingPipeline-Container"
     }
   }
 }

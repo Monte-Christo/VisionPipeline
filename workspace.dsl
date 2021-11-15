@@ -1,28 +1,54 @@
 workspace {
 
     model {
-        user = person "User"
-        softwareSystem = softwareSystem "Gain Data Cleansing Pipeline" {
-            DataSources = group "Executable Schemas" {
-                container "Bloomberg"
-                container "Refinitv"
-                container "WM"
-                container "etc."
+        CleansingPipeline = softwareSystem "Gain Data Cleansing Pipeline" {
+            DataSources = group "Data Sources" {
+                BBG = container "Bloomberg"
+                Ref = container "Refinitv"
+                WM = container "WM"
+                Etc = container "etc."
             }
             
+            DataSourceGateway = container "GraphQL Mesh"
+            StagingArea = container "Document Database"
+            PipelineFacade = container "GraphQL Envelop"
+            FacadeImplementation = container "GraphQL Plugins"
+            PipelineFunctions = group "Azure Functions" {
+                F1 = container "Function 1"
+                F2 = container "Function 2"
+                More = container "..."
+                Fn = container "Function n"
+            }
+            ValidationService = container "Validation Service"
+            PublicationService = container "Publication Service"
+
             !docs docs
         }
 
-        user -> softwareSystem "Uses"
+        BBG -> DataSourceGateway "invokes"
+        Ref -> DataSourceGateway "invokes"
+        Etc -> DataSourceGateway "invokes"
+        WM -> DataSourceGateway "invokes"
+
+        DataSourceGateway -> StagingArea "stores raw data in"
+        DataSourceGateway -> PipelineFacade "calls"
+        PipelineFacade -> F1 "invokes"
+        PipelineFacade -> F2 "invokes"
+        PipelineFacade -> More "invokes"
+        PipelineFacade -> Fn "invokes"
+
+        PipelineFacade -> FacadeImplementation "is implemented by"
+        PipelineFacade -> ValidationService "uses"
+        PipelineFacade -> PublicationService "uses"
     }
 
     views {
-        systemContext softwareSystem "Diagram1" {
+        systemContext CleansingPipeline "Diagram1" {
             include *
             autoLayout
         }
-        container softwareSystem {
-            include DataSources
+        container CleansingPipeline {
+            include *
             autoLayout
         }
 
